@@ -1,13 +1,8 @@
-package edu.isu.cs.cs3308;
+package edu.isu.cs.cs3308.impl;
 
+import edu.isu.cs.cs3308.structures.SinglyLinkedList;
 import org.junit.Test;
 import static org.junit.Assert.*;
-import java.io.IOException;
-import java.nio.file.Files;
-import java.nio.file.Path;
-import java.nio.file.Paths;
-import java.util.List;
-import edu.isu.cs.cs3308.structures.impl.SinglyLinkedList;
 
 /**
  * @author Isaac Griffith
